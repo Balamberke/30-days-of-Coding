@@ -1,0 +1,2 @@
+    print(f"Hello " + input() + " " + input() + "! You just delved into python.")
+    #doesn't pass the challenge
