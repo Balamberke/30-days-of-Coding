@@ -1,2 +1,2 @@
     print(f"Hello " + input() + " " + input() + "! You just delved into python.")
-    #doesn't pass the challenge
+    #doesn't pass the challenge on HackerRank due to old validator
